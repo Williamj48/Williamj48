@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm William 👋
+I am a computer science student at Montana State University.
 
-<!--
-**Williamj48/Williamj48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I'm working on
+- Creating a TUI that uses nmcli for connecting to wifi
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=Williamj48&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Passions
+- Linux command line
+- Software development
+- Networking
+- Cyber Security
