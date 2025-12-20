@@ -12,4 +12,4 @@ I am a computer science student at Montana State University.
 - Linux command line
 - Software development
 - Networking
-- Cyber Security
+- Cyber security
