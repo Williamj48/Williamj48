@@ -12,7 +12,7 @@ I am a computer science student at Montana State University. I am currently tryi
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=Williamj48&show_icons=true&theme=radical)
 
 ## Passions
-- Linux command line
+- Unix command line
 - Software development
 - Networking
 - Cyber security
